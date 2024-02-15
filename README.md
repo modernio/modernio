@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @modernio, Selin.
+- 👋 Hi, I’m @selindurmaz.
 - 🌱 I’m currently learning C++.
 - 📫 How to reach me: selinaydurmaz@outlook.com
 
